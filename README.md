@@ -1,5 +1,6 @@
 # 1. Клонируем репозиторий
 git clone https://github.com/rasulow/task-management.git
+
 cd task-management
 
 # 2. Создаем и активируем виртуальное окружение
